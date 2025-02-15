@@ -11,8 +11,11 @@
 
 <h2>Features</h2>
 <ul>
-  <li>✔️ <strong>Optimized for speed & power efficiency</strong> using <strong>domino logic</strong>.</li>
-  <li>✔️ <strong>Hierarchical design</strong> starting from basic arithmetic units.</li>
+  <li>✔️ NMOS & PMOS W/L ratio:<strong> 2u/0.18u </strong></li>
+  <li>✔️ <strong>Clock Cycles: </strong> 14 cycles atleast
+          <ol type="1"><li> 2 cycles for 2X2 Multiplier</li>
+          <li> 4 cycles for each 4-bit RCA, so 3 RCAs = 4X3 = 12 cycles</li>
+          <li><strong> Total Cycles:</strong> 14 cycles</li></ol></li>
   <li>✔️ <strong>Scalable structure</strong> for larger multipliers.</li>
 </ul>
 
